@@ -321,7 +321,7 @@
 							</div>
 
 							<div class="mu-download-content justify-content-center">
-								<a  href="https://www.figma.com/proto/6rVEFyuOxjdrc2oi7tnTT6/AglomeraNao--Mobile?node-id=303%3A0&scaling=min-zoom" target="_blank" style="color:white"><button class="mu-send-msg-btn"><span>ACESSAR</span></button></a>
+								<a  href="https://www.figma.com/proto/6rVEFyuOxjdrc2oi7tnTT6/AglomeraNao--Mobile?node-id=303%3A0&scaling=min-zoom" target="_blank" style="color:white"><button class="mu-send-msg-btn"><span>Acessar prévia do App (= </span></button></a>
 								
 							</div>
 						</div>
@@ -342,7 +342,7 @@
 								<h2 class="mu-heading-title">POSSUI UM ESTABELECIMENTO OU QUER USAR O APP ?</h2>
 								<span class="mu-title-dot"></span>
 								<p><b>Curtiu a ideia e quer tornar-se parceiro ou saber mais sobre ? <br>Preencha nosso formulário clicando no botão abaixo !</b></p>
-								<a href="https://yanfontao.typeform.com/to/qxhI45" target="_blank" style="color:white;"><button class="mu-send-msg-btn"><span>ACESSAR</span></button></a>									
+								<a href="https://yanfontao.typeform.com/to/qxhI45" target="_blank" style="color:white;"><button class="mu-send-msg-btn"><span>Quero fazer pré-cadastro !</span></button></a>									
 							</div>
 								
 							<div class="mu-download-content justify-content-center">	
