@@ -314,14 +314,14 @@
 						<div class="mu-download-area">
 
 							<div class="mu-title-area">
-								<h2 class="mu-title">ACESSE O APP</h2>
+								<h2 class="mu-title">ACESSE UMA PRÉVIA DO APP</h2>
 								<span class="mu-title-dot"></span>
 								<p>Atualmente, nossa aplicação está em <b>fase de desenvolvimento</b>, mas estamos trabalhando para entregá-la o quanto antes a sociedade (= <br>
-								Por enquanto, você pode acessar uma prévia do app clicando abaixo: </p>
+								Por enquanto, você pode acessar uma <b>prévia do app</b> clicando abaixo: </p>
 							</div>
 
 							<div class="mu-download-content justify-content-center">
-								<a  href="http://aglomeranaoapp.herokuapp.com" target="_blank" style="color:white"><button class="mu-send-msg-btn"><span>ACESSE</span></button></a>
+								<a  href="https://www.figma.com/proto/6rVEFyuOxjdrc2oi7tnTT6/AglomeraNao--Mobile?node-id=303%3A0&scaling=min-zoom" target="_blank" style="color:white"><button class="mu-send-msg-btn"><span>ACESSAR</span></button></a>
 								
 							</div>
 						</div>
@@ -338,22 +338,16 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="mu-contact-area">
-
 							<div class="mu-title-area">
 								<h2 class="mu-heading-title">POSSUI UM ESTABELECIMENTO OU QUER USAR O APP ?</h2>
 								<span class="mu-title-dot"></span>
-								<p><b>Curtiu a ideia e quer tornar-se parceiro ou saber mais sobre ? Preencha nosso formulário abaixo !</b></p>
+								<p><b>Curtiu a ideia e quer tornar-se parceiro ou saber mais sobre ? <br>Preencha nosso formulário clicando no botão abaixo !</b></p>
+								<a href="https://yanfontao.typeform.com/to/qxhI45" target="_blank" style="color:white;"><button class="mu-send-msg-btn"><span>ACESSAR</span></button></a>									
 							</div>
-
-						
-							
-							<div class="mu-download-content justify-content-center">
-								<div class="cui-embed" style="height: 400px; width: 100%;" data-cui-uid="qxhI45" data-cui-avatar="https://images.typeform.com/images/rrvFUJYuehTe" data-cui-mode="widget" data-cui-pill-button-color="#0000FF"></div>
-								<script src="https://public-assets.typeform.com/confab/embed.js" async></script>
-								<div>
-									<p><strong>aglomeranao@gmail.com</strong></p>
-								</div>
+								
+							<div class="mu-download-content justify-content-center">	
 								<div class="mu-social-media">
+									<p><strong>aglomeranao@gmail.com</strong></p>
 									<a href="https://www.instagram.com/aglomeranao/"  target="_blank"><i class="fa fa-instagram"></i></a>
 									<a href="https://www.youtube.com/watch?v=pvecw-WqgDM"  target="_blank"><i class="fa fa-youtube"></i></a>
 								</div>
@@ -377,12 +371,8 @@
 					<p class="mu-copy-right">&copy; Copyright <a rel="nofollow" href="http://markups.io">AglomeraNão!</a>. Todos os direitos reservados.</p>
 				</div>
 			</div>
-
 	</footer>
 	<!-- End footer -->
-
-	
-	
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -392,14 +382,8 @@
     <script type="text/javascript" src="assets/js/slick.min.js"></script>
     <!-- Ajax contact form  -->
     <script type="text/javascript" src="assets/js/app.js"></script>
-  
-    
-	
+
     <!-- Custom js -->
 	<script type="text/javascript" src="assets/js/custom.js"></script>
-
-	
-	
-    
   </body>
 </html>
