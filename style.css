@@ -714,7 +714,6 @@ button:focus {
 /* APPPS SCREENSHOT */
 /*--------------------*/
 
-
 #mu-apps-screenshot {
 	background-color: #fff;
 	display: inline;
@@ -811,6 +810,33 @@ button:focus {
 /*--------------------*/
 /* FAQ */
 /*--------------------*/
+#mu-team{
+	/*background-image: url("assets/images/download-bg.jpeg");*/
+	background-color: #8900F4;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+}
+
+#mu-team::before {
+	background: rgba(0,0,0,0.9);
+	bottom: 0;
+	content: '';
+	left: 0;
+	top: 0;
+	right: 0;
+	position: absolute;
+	opacity: 0.84;
+}
+
+#mu-midia{
+	background-color: #ffffff;
+	display: inline;
+	float: left;
+	position: relative;
+	width: 100%;
+}
 
 #mu-faq {
 	background-color: #f8f8f8;
@@ -876,7 +902,7 @@ button:focus {
 /*--------------------*/
 
 #mu-contact {
-	background-color: #fff;
+	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;

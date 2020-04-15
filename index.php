@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -86,6 +86,8 @@
 					<li><a href="#mu-video">Video Promocional</a></li>
 					<li><a href="#mu-apps-screenshot">Telas do App</a></li>
 					<li><a href="#mu-download">Prévia do App</a></li>
+					<li><a href="#mu-midia">O App na Mídia</a></li>
+					<li><a href="#mu-team">Conheça a equipe</a></li>
 					<li><a href="#mu-contact">Colabore Conosco (:</a></li>
 				</ul>
 			</nav>
@@ -96,9 +98,8 @@
 	
 	
 	<!-- Start main content -->
-		
-	<main role="main">
 
+	<main role="main">
 		<!-- Start Feature -->
 		<section id="mu-feature">
 			<div class="container">
@@ -330,6 +331,76 @@
 			</div>
 		</section>
 		<!-- End Download -->
+
+		<!-- Start Apps Screenshot -->
+		<section id="mu-midia">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-apps-screenshot-area">
+
+							<div class="mu-title-area">
+								<h2 class="mu-title">O APP NA MÍDIA</h2>
+								<span class="mu-title-dot"></span>
+								<p>Confira abaixo o que estão dizendo sobre a nossa solução !</p>
+							</div>
+
+
+							<!-- Start Apps Screenshot Content -->
+							<div class="mu-apps-screenshot-content">
+
+								<div class="mu-apps-screenshot-slider">
+
+									<div class="mu-single-screeshot">
+										<a href="https://portaldoamazonas.com.br/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/1.png" alt="App screenshot img"></a>
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://www.portalmarcossantos.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/2.png" alt="App screenshot img"></a>
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://noticianamedida.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/3.png" alt="App screenshot img"></a>
+										
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="http://amhoje.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/4.png" alt="App screenshot img"></a>	
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://www.blogdomarioadolfo.com.br/aglomeranao/" target="_blank"><img src="assets/images/5.png" alt="App screenshot img"></a>
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://portaldoamazonas.com.br/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/1.png" alt="App screenshot img"></a>
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://www.portalmarcossantos.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/2.png" alt="App screenshot img"></a>
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://noticianamedida.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/"  target="_blank"><img src="assets/images/3.png" alt="App screenshot img"></a>
+										
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="http://amhoje.com.br/2020/04/15/site-aglomeranao-apresenta-solucao-para-evitar-aglomeracao-de-pessoas-em-lojas-e-mercados/" target="_blank"><img src="assets/images/4.png" alt="App screenshot img"></a>	
+									</div>
+
+									<div class="mu-single-screeshot">
+										<a href="https://www.blogdomarioadolfo.com.br/aglomeranao/" target="_blank"><img src="assets/images/5.png" alt="App screenshot img"></a>
+									</div>
+								</div>
+							</div>
+							<!-- End Apps Screenshot Content -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Apps Screenshot -->
 
 
 		<!-- Start Contact -->
