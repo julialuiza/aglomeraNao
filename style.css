@@ -191,7 +191,6 @@ button:focus {
 }
 
 .mu-send-msg-btn {
-	color: #555;
 	font-size: 13px;
 	font-weight: 600;
 	letter-spacing: 1px;
@@ -201,13 +200,13 @@ button:focus {
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 	width: 130px;
-	color: #fff;
+	color: #fff !important;
 	border-radius: 10px;
 }
 
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus {
-	background-color: #fff;
+	background-color: #8900F4;
 }
 
 

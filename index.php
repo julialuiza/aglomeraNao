@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>AglomeraNão!</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/icon" href="assets/images/logo02.png"/>
     <!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -81,13 +81,12 @@
 			<a class="mu-menu-close-btn" href="#"><span class="mu-line"></span></a>
 			<nav class="mu-menu" role="navigation">
 				<ul>
-					<li><a href="#mu-header">Header</a></li>
-					<li><a href="#mu-feature">App Feature</a></li>
-					<li><a href="#mu-video">Promo Video</a></li>
-					<li><a href="#mu-apps-screenshot">Apps Screenshot</a></li>
-					<li><a href="#mu-download">Download</a></li>
-					<li><a href="#mu-faq">FAQ</a></li>
-					<li><a href="#mu-contact">Get In Touch</a></li>
+					<li><a href="#mu-header">Início</a></li>
+					<li><a href="#mu-feature">Serviços do App</a></li>
+					<li><a href="#mu-video">Video Promocional</a></li>
+					<li><a href="#mu-apps-screenshot">Telas do App</a></li>
+					<li><a href="#mu-download">Prévia do App</a></li>
+					<li><a href="#mu-contact">Colabore Conosco (:</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -306,109 +305,31 @@
 			</div>
 		</section>
 		<!-- End Apps Screenshot -->
-
-		<!-- Start FAQ
-		<section id="mu-faq">
+		
+		<!-- Start Download -->
+		<section id="mu-download">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="mu-faq-area">
+						<div class="mu-download-area">
 
 							<div class="mu-title-area">
-								<h2 class="mu-title">FAQ</h2>
+								<h2 class="mu-title">ACESSE O APP</h2>
 								<span class="mu-title-dot"></span>
+								<p>Atualmente, nossa aplicação está em <b>fase de desenvolvimento</b>, mas estamos trabalhando para entregá-la o quanto antes a sociedade (= <br>
+								Por enquanto, você pode acessar uma prévia do app clicando abaixo: </p>
 							</div>
 
-
-							<div class="mu-faq-content">
-
-								<div class="panel-group" id="accordion">
-
-							        <div class="panel panel-default">
-							          <div class="panel-heading">
-							            <h4 class="panel-title">
-							              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true">
-							                <span class="fa fa-minus"></span> Como surgiu a ideia? 
-							              </a>
-							            </h4>
-							          </div>
-							          <div id="collapseOne" class="panel-collapse collapse in">
-							            <div class="panel-body">
-							              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-							            </div>
-							          </div>
-							        </div>
-
-							        <div class="panel panel-default">
-							          <div class="panel-heading">
-							            <h4 class="panel-title">
-							              <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-							                <span class="fa fa-plus"></span> How do I setup this App? 
-							              </a>
-							            </h4>
-							          </div>
-							          <div id="collapseTwo" class="panel-collapse collapse">
-							            <div class="panel-body">
-							              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-							            </div>
-							          </div>
-							        </div>
-
-							        <div class="panel panel-default">
-							          <div class="panel-heading">
-							            <h4 class="panel-title">
-							              <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							                <span class="fa fa-plus"></span> Does it cost anything to become a member? 
-							              </a>
-							            </h4>
-							          </div>
-							          <div id="collapseThree" class="panel-collapse collapse">
-							            <div class="panel-body">
-							              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-							            </div>
-							          </div>
-							        </div>
-
-							        <div class="panel panel-default">
-							          <div class="panel-heading">
-							            <h4 class="panel-title">
-							              <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-							                <span class="fa fa-plus"></span> What is your policy regarding privacy? 
-							              </a>
-							            </h4>
-							          </div>
-							          <div id="collapseFour" class="panel-collapse collapse">
-							            <div class="panel-body">
-							              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-							            </div>
-							          </div>
-							        </div>
-
-							        <div class="panel panel-default">
-							          <div class="panel-heading">
-							            <h4 class="panel-title">
-							              <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-							                <span class="fa fa-plus"></span> Are there more help resources available? 
-							              </a>
-							            </h4>
-							          </div>
-							          <div id="collapseFive" class="panel-collapse collapse">
-							            <div class="panel-body">
-							              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-							            </div>
-							          </div>
-							        </div>
-
-
-							    </div>
+							<div class="mu-download-content justify-content-center">
+								<a  href="http://aglomeranaoapp.herokuapp.com" target="_blank" style="color:white"><button class="mu-send-msg-btn"><span>ACESSE</span></button></a>
+								
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		End FAQ -->
+		<!-- End Download -->
 
 
 		<!-- Start Contact -->
@@ -419,37 +340,24 @@
 						<div class="mu-contact-area">
 
 							<div class="mu-title-area">
-								<h2 class="mu-heading-title">ENTRE EM CONTATO</h2>
+								<h2 class="mu-heading-title">POSSUI UM ESTABELECIMENTO OU QUER USAR O APP ?</h2>
 								<span class="mu-title-dot"></span>
-								<p><b>Curtiu a ideia e quer tornar-se parceiro ou saber mais sobre ? Entre em contato !</b></p>
+								<p><b>Curtiu a ideia e quer tornar-se parceiro ou saber mais sobre ? Preencha nosso formulário abaixo !</b></p>
 							</div>
 
+						
 							
-
-							<!-- Start Contact Content -->
-							<div class="mu-contact-content">
-								<div class="row">				
-									<div class="col-md-12">
-										<div class="mu-contact-right justify-content-center" >
-
-											<div class="mu-contact-right-single">
-												<div class="mu-icon"><i class="fa fa-envelope"></i></div>
-												<p><strong>Email</strong></p>
-												<p>aglomeranao@gmail.com</p>
-											</div>
-
-											<div class="mu-contact-right-single">
-												<div class="mu-social-media">
-													<a href="https://www.instagram.com/aglomeranao/"><i class="fa fa-instagram"></i></a>
-													<a href="https://www.youtube.com/watch?v=pvecw-WqgDM"><i class="fa fa-youtube"></i></a>
-												</div>
-											</div>
-
-										</div>
-									</div>		
+							<div class="mu-download-content justify-content-center">
+								<div class="cui-embed" style="height: 400px; width: 100%;" data-cui-uid="qxhI45" data-cui-avatar="https://images.typeform.com/images/rrvFUJYuehTe" data-cui-mode="widget" data-cui-pill-button-color="#0000FF"></div>
+								<script src="https://public-assets.typeform.com/confab/embed.js" async></script>
+								<div>
+									<p><strong>aglomeranao@gmail.com</strong></p>
+								</div>
+								<div class="mu-social-media">
+									<a href="https://www.instagram.com/aglomeranao/"  target="_blank"><i class="fa fa-instagram"></i></a>
+									<a href="https://www.youtube.com/watch?v=pvecw-WqgDM"  target="_blank"><i class="fa fa-youtube"></i></a>
 								</div>
 							</div>
-							<!-- End Contact Content -->
 						</div>
 					</div>
 				</div>
